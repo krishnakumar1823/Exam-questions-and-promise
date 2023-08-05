@@ -15,7 +15,7 @@
 
 
 {
-//EX:1==start
+//EX:1==start 
     var obj={
         name:"es6",
         a:7,
